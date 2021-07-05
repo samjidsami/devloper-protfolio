@@ -5,6 +5,9 @@ body{
 h1{
     font-size: 70px;
 }
+h2{
+    font-size: 40px ;
+}
 .red{
     color:red;
 }
@@ -37,5 +40,28 @@ text-decoration: none;
     background-position: right;
 }
 .side-move{
-    margin: 2%;
+    margin: 2 %;
 }
+.experiance-item{
+    width: 40%;
+box-shadow: 10px 10px 40px navy;
+margin-left: 5%;
+margin-right: 5%;
+padding: 10px;
+border-radius: 10px;}
+.experiance-area{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    }
+  #baby-web{ border-image: linear-gradient(blue,red);
+    border-left: 7px solid;
+      
+    border-image-slice: 1;
+  } 
+  #big-web{border-image: linear-gradient(black,yellow);
+    border-left: 7px solid;
+      
+    border-image-slice: 1;
+  } 
+
+  } 
